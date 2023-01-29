@@ -40,6 +40,12 @@ button {
   line-height: 125%;
 }
 
+button:hover {
+  cursor: pointer;
+  color: #8b5cf6;
+  transition: 1s;
+}
+
 #form-habits {
   display: flex;
 
